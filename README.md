@@ -1,7 +1,7 @@
-# Ducky Command Dataset
-This repository is home to the dataset that is used to train DuckyAI on interactions with the Godot Game Engine.
+# Jovia Command Dataset
+This repository is home to the dataset that is used to train JoviaAI on interactions with the Godot Game Engine.
 The dataset is open source, allowing users to create their own engine actions and submit them to be included in future
-fine-tuning of the Ducky model.
+fine-tuning of the Jovia model.
 
 
 ## Generating Your Own Training Data
